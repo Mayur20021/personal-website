@@ -1,0 +1,94 @@
+.navbar{
+    background-color: rgb(63, 82, 176);
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.about-me{
+    background-color: rgb(246, 227, 203);
+}
+
+.heading{
+    font-family: cursive;
+}
+
+#heading2{
+    text-align: center;
+    padding-top: 20px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 3rem;
+}
+
+#heading3{
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 0px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+.project{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.image{
+    height: 400px;
+    width: 800px;
+    margin: 20px;
+    border: solid 5px black;
+    border-radius: 10px;
+}
+
+.firstproject{
+    display: flex;
+    background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+
+}
+
+.secondproject{
+    display: flex;
+    background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+
+}
+
+.desc{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left: 50px;
+text-align: center;
+}
+
+.desc2{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left: 50px;
+text-align: center;
+}
+
+.image:hover{
+    transform: scale(1.15);
+}
+
+.firstbox:hover{
+transform: scale(1.15);
+}
+
+.secondbox:hover
+{
+    transform: scale(1.15);
+}
+
+.thirdbox:hover{
+    transform: scale(1.15);
+}
+
+.satoru:hover{
+    transform: scale(1.15);
+}
